@@ -1,0 +1,10 @@
+D:\test_p\USBmodify\bin\Debug\USBmodify.exe.config
+D:\test_p\USBmodify\bin\Debug\USBmodify.exe
+D:\test_p\USBmodify\bin\Debug\USBmodify.pdb
+D:\test_p\USBmodify\obj\Debug\USBmodify.Form1.resources
+D:\test_p\USBmodify\obj\Debug\USBmodify.Properties.Resources.resources
+D:\test_p\USBmodify\obj\Debug\USBmodify.csproj.GenerateResource.cache
+D:\test_p\USBmodify\obj\Debug\USBmodify.csproj.CoreCompileInputs.cache
+D:\test_p\USBmodify\obj\Debug\USBmodify.exe
+D:\test_p\USBmodify\obj\Debug\USBmodify.pdb
+D:\test_p\USBmodify\obj\Debug\USBmodify.csproj.AssemblyReference.cache
